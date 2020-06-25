@@ -575,8 +575,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1455,8 +1454,8 @@
             "backupPath": "/root/frontend/~/.vscode-root/Backups/33fd82aa2e16ed438cea4365d7b9b705",
             "uiState": {
                 "mode": 1,
-                "x": 448,
-                "y": 230,
+                "x": 444,
+                "y": 226,
                 "width": 1024,
                 "height": 768
             }

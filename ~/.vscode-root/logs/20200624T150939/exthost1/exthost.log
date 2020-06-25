@@ -29,3 +29,9 @@
 [2020-06-24 15:59:36.747] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
 [2020-06-24 15:59:43.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
 [2020-06-24 15:59:43.994] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2020-06-25 06:47:07.623] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"extensionId":{"value":"vscode.grunt","_lower":"vscode.grunt"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-06-25 06:47:07.667] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/grunt/dist/main
+[2020-06-25 06:47:08.087] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"extensionId":{"value":"vscode.gulp","_lower":"vscode.gulp"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-06-25 06:47:08.087] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/gulp/dist/main
+[2020-06-25 06:47:08.196] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"extensionId":{"value":"vscode.jake","_lower":"vscode.jake"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-06-25 06:47:08.196] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/jake/dist/main
